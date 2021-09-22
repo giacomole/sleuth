@@ -1,0 +1,13 @@
+{
+	"n_targets": 48359,
+	"n_bootstraps": 25,
+	"n_processed": 6803857,
+	"n_pseudoaligned": 6569230,
+	"n_unique": 3831792,
+	"p_pseudoaligned": 96.6,
+	"p_unique": 56.3,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Sun Mar  7 17:07:33 2021",
+	"call": "/Users/dgiacomini/kallisto/src/kallisto quant -i At_transcriptome -o Analysis/SRR1761522 -b 25 SRR1761522_R1_017.fastq.gz_fp.trimmed.fastq.gz SRR1761522_R2_017.fastq.gz_rp.trimmed.fastq.gz"
+}
